@@ -77,6 +77,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ### Fig 3: Setting Multi-step simulation
 
+![image](https://github.com/user-attachments/assets/97f5eeb3-b008-4dcb-a090-ecafe01201b1)
+
 
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
@@ -94,10 +96,9 @@ We are simulating verilog design without using any libraries
 
 A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
-
 ### Fig 5: Selection of Don’t include any libraries
 
+![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
 
 A ‘NCLaunch window’ appears as shown in figure below
 
