@@ -62,6 +62,8 @@ After this you can see the window like below
 
 ### Fig 2: Invoke the Cadence Environment
 
+![image](https://github.com/user-attachments/assets/f2ea7ef0-3cef-442c-8af8-511d9d6ea045)
+
 To Launch Simulation tool 
 
 •linux:/> nclaunch -new& // “-new” option is used for invoking NCVERILOG for the first time for any design 
@@ -75,11 +77,14 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 
 ### Fig 3: Setting Multi-step simulation
 
+
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 4:cds.lib file Creation
+
+![image](https://github.com/user-attachments/assets/e630254d-ee3f-4762-a8f3-b02929e14254)
 
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
@@ -93,6 +98,7 @@ A Click “OK” in the “nclaunch: Open Design Directory” window as shown in
 
 ### Fig 5: Selection of Don’t include any libraries
 
+
 A ‘NCLaunch window’ appears as shown in figure below
 
 Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed. 
@@ -102,6 +108,8 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 6: Nclaunch Window
+
+![image](https://github.com/user-attachments/assets/af3ef858-2e0b-4a5e-867c-33c6bbaab548)
 
 ## Step 1: Compilation:
 
@@ -161,6 +169,8 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ## Fig 8: Elaboration Launch Option
 
+![image](https://github.com/user-attachments/assets/1dacce8d-3f8b-41a9-8390-bc33801b8d2d)
+
 ## Step 3: Simulation: 
 
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -175,9 +185,11 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
 
+![image](https://github.com/user-attachments/assets/a8ee4f63-a5e3-4acd-9b8b-23f8f5016b8f)
+
 ## Fig 10:Simulation Waveform Window
 
-## Fig 11:Simulation Waveform Window
+![Uploading image.png…]()
 
 ### Result
 
