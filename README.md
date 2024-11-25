@@ -136,6 +136,8 @@ Worklib is the directory where all the compiled codes are stored while Snapshot 
 
 ### Fig 7: Compiled database in worklib
 
+![image](https://github.com/user-attachments/assets/e92ba304-5001-49e6-913d-783456922a73)
+
 After compilation it will come under worklib you can see in right side window
 
 Select the test bench and compile it. It will come under worklib. Under Worklib you can see the module and test-bench. 
